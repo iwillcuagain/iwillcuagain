@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Cyber Security and information assurance
 - 💞️ I’m looking to collaborate on any Cyber Security project that will enhance my expirience
 - 📫 How to reach me EliejahWalker@gmail.com
+- LinkedIn https://www.linkedin.com/in/eliejah-walker-71951121a/
 
 <!---
 iwillcuagain/iwillcuagain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
